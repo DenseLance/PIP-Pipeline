@@ -8,6 +8,8 @@ Text-to-Image (T2I) models have become immensely popular due to their ability to
 
 Use the Jupyter notebooks (.ipynb) with the prefix `[PIPELINE]` in the main directory. You can then modify the file according to your needs.
 
-
-
 Our evaluation results can be found in the `eval` directory.
+
+## Report and Citations
+
+Technical details of the project are described in `Is It Possible to Attack a T2I Model With Only Punctuation.pdf` in the main directory.
